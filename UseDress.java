@@ -44,7 +44,7 @@ public class UseDress {
 			}
 		}
 		d.forEach((x,y)->System.out.println(y));
-		
+		System.out.println("hello everyone");
 	}
 }
 
